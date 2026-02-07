@@ -7,7 +7,7 @@
 **Selected Component:** Profile Card
 
 ## Live Site
-[View Live Site on GitHub Pages](https://abkhan79.github.io/CS300-Assignment-1/Profile_Card.html)
+[View Live Site on GitHub Pages](https://github.com/abkhan79/CS300-Assignment-1.git)
 
 ## Design Choices
 
